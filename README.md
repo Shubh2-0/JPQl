@@ -23,7 +23,7 @@ To get started with these projects, follow these steps:
 
 ## Contributing 🤝🌟
 
-We welcome contributions to these projects! If you'd like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file. ✨👩‍💻👨‍💻
+I welcome contributions to these projects! If you'd like to contribute .✨👩‍💻👨‍💻
 
 
 Happy coding! ✨🎉😄
