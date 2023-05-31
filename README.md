@@ -1,5 +1,8 @@
 # JPQL Projects ✨🔍
 
+![image](https://github.com/Shubh2-0/JPQl/assets/112773220/f5bea3d0-764b-4316-87d3-2fe639d7e820)
+
+
 ## BasicCRUD 📝✅
 
 The BasicCRUD project is designed to showcase the basic usage of JPQL (Java Persistence Query Language). It provides examples of how to perform CRUD (Create, Read, Update, Delete) operations using JPQL queries. Whether you're new to JPQL or looking for a refresher, this project is a great starting point. 🚀📚
