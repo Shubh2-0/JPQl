@@ -17,7 +17,7 @@ Feel free to explore the projects and take a look at the code. We've made sure t
 
 To get started with these projects, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/repository.git` 📥👥
+1. Clone the repository: `git clone https://github.com/Shubh2-0/repository.git` 📥👥
 2. Navigate to the project you want to explore: `cd BasicCRUD` or `cd basic` 📂🔍
 3. Follow the project-specific instructions available in their respective README files. 📋🔧
 
