@@ -1,39 +1,56 @@
-# JPQL Projects ✨🔍
+<div align="center">
 
-![image](https://github.com/Shubh2-0/JPQl/assets/112773220/f5bea3d0-764b-4316-87d3-2fe639d7e820)
+# 📊 JPQL - Java Persistence Query Language
 
+[![GitHub stars](https://img.shields.io/github/stars/Shubh2-0/JPQl?style=for-the-badge&logo=github&color=yellow)](https://github.com/Shubh2-0/JPQl/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Shubh2-0/JPQl?style=for-the-badge&logo=github&color=blue)](https://github.com/Shubh2-0/JPQl/network/members)
 
-## BasicCRUD 📝✅
+### Master Object-Oriented Database Queries
 
-The BasicCRUD project is designed to showcase the basic usage of JPQL (Java Persistence Query Language). It provides examples of how to perform CRUD (Create, Read, Update, Delete) operations using JPQL queries. Whether you're new to JPQL or looking for a refresher, this project is a great starting point. 🚀📚
+*From basic CRUD to complex joins with JPQL*
 
-## basic 📊📈
+</div>
 
-The basic project dives deeper into the power of JPQL by demonstrating more advanced query techniques. It covers complex queries, joins, aggregations, and other useful features of JPQL. Whether you're a seasoned JPQL user or looking to enhance your skills, the basic project offers valuable insights. 💪💡
+---
 
-Feel free to explore the projects and take a look at the code. We've made sure to use plenty of emojis throughout the repository to make your learning experience even more enjoyable! 😄🌟
+## 🎯 About
 
-## Getting Started 🚀🎉
+This repository contains projects demonstrating **JPQL (Java Persistence Query Language)** - an object-oriented query language for JPA entities.
 
-To get started with these projects, follow these steps:
+## 📁 Projects
 
-1. Clone the repository: `git clone https://github.com/Shubh2-0/JPQl.git` 📥👥
-2. Navigate to the project you want to explore: `cd BasicCRUD` or `cd basic` 📂🔍
-3. Follow the project-specific instructions available in their respective README files. 📋🔧
+| Project | Focus |
+|---------|-------|
+| **BasicCRUD** | Fundamental JPQL operations |
+| **basic** | Advanced queries and joins |
 
-## Contributing 🤝🌟
+## 💡 JPQL vs SQL
 
-I welcome contributions to these projects! If you'd like to contribute .✨👩‍💻👨‍💻
+```sql
+-- SQL (Table-based)
+SELECT * FROM users WHERE age > 25
 
+-- JPQL (Object-based)
+SELECT u FROM User u WHERE u.age > 25
+```
+
+## 📚 Topics Covered
+
+- ✅ SELECT, UPDATE, DELETE queries
+- ✅ WHERE clauses and conditions
+- ✅ JOIN operations (INNER, LEFT, RIGHT)
+- ✅ Aggregate functions (COUNT, SUM, AVG)
+- ✅ Named queries and parameters
+
+## 🛠️ Technologies
+
+Java | JPA | Hibernate | MySQL | Maven
 
 ## 📬 Contact
 
-If you want to contact me, you can reach me through below handles.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-bhati-787319213/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhambhati226@gmail.com)
 
- <p align="left">
-  <a href="https://www.linkedin.com/in/bhatishubham/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
-  <a title="shubhambhati226@gmail.com" href="mailto:shubhambhati226@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
-  <a href="https://wa.me/+916232133187" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;
-<a href="https://www.hackerrank.com/shubhambhati226?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40px"  alt="whatsapp-me" /></a>&emsp; </p>
+---
 
-Happy coding! ✨🎉😄
+**Keywords:** JPQL JPA Hibernate Java Database Query ORM Entity-Manager Persistence
