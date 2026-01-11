@@ -55,3 +55,4 @@ Java | JPA | Hibernate | MySQL | Maven
 
 **Keywords:** JPQL JPA Hibernate Java Database Query ORM Entity-Manager Persistence
 
+
